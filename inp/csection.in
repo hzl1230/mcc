@@ -1,0 +1,4 @@
+background O2 72820.7 0.0 2414323.51 0.01         !background: name, mass, charge, n, T 
+pairs 1 e &                   ! pair num, name
+ dir e_O2.dat                 ! file_dir
+aid_param  2.585              ! kTe0 need to calculate ionization energy distribution
